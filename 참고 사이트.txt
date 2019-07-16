@@ -1,0 +1,14 @@
+코딩도장
+https://dojang.io/mod/quiz/view.php?id=2217
+
+0. 파이참 설치
+https://bradbury.tistory.com/63
+
+1. 파이참 테마
+http://color-themes.com/?view=index&page=1&order=popular&search=&layout=Generic
+
+2. 파이참 테마 배경화면
+https://stackoverflow.com/questions/37239686/how-to-change-pycharm-code-editor-background-color
+
+3. 파이참 단축키 변경
+https://nittaku.tistory.com/356
